@@ -113,8 +113,7 @@ if __name__ == "__main__":
           the format is: minitest(function_name, [list, of, arguments], expected_result)
 
           REMEMBER: these aren't the tests that you submit, these are just
-          there to keep you sane."""
-    )
+          there to keep you sane."""    )
 
     minitest(add_1, [1], 2)
     minitest(add_5, [1], 6)
